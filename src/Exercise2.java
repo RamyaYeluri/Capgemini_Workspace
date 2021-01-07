@@ -1,3 +1,7 @@
+/**
+*Select color and print output
+* Switch case
+*/
 import java.util.*;
 public class Exercise2 {
 
