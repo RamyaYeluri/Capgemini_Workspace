@@ -1,3 +1,7 @@
+/**
+*@author Ramya
+*Test class to remove duplicates from int array
+*/
 package Lab2.TDD;
 
 import static org.junit.Assert.assertEquals;
