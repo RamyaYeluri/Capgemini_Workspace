@@ -1,3 +1,7 @@
+/**
+*@Author Ramya
+*Java class to remove duplicates in int array
+*/
 package Lab2.TDD;
 import java.util.*;
 
