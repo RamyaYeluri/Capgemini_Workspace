@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+/**
+*Select color and print output
+* Switch case
+*/
+>>>>>>> 9c1b2f085463664f47c5368b67d470f342de2d85
 import java.util.Scanner;
 public class Exercise2 {
 
